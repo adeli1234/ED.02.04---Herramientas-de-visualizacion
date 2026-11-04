@@ -57,7 +57,8 @@ print("Token leído:", len(TOKEN), "caracteres")
 # ─── Paso 2 · Pedir la serie ───────────────────────────────────────────
 # SF43718 es el tipo de cambio FIX, pesos por dólar.
 # El catálogo completo de series está en el sitio del SIE.
-SERIES = "SF43718"
+#SERIES = "SF43718"
+SERIES = "SF343410"
 INICIO = "2021-01-01"
 FIN = "2025-12-31"
 
